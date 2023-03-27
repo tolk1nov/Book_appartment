@@ -1,0 +1,18 @@
+[
+  {
+    "id": "9129210e-9319-461d-af7d-b59d1114a62b",
+    "name": "sarvar",
+    "surname": "tulkinov",
+    "age": 21,
+    "login": "sarvarcik",
+    "password": "1111"
+  },
+  {
+    "id": "8a1239aa-408a-4592-bd17-57e4ce243c9a",
+    "name": "sattor",
+    "surname": "aliev",
+    "age": 22,
+    "login": "ali123",
+    "password": "1111"
+  }
+]
