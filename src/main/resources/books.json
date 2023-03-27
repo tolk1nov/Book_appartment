@@ -1,0 +1,16 @@
+[
+  {
+    "id": "c925d0ca-33f7-4089-adec-f670c489528e",
+    "title": "java",
+    "author": "sarvar",
+    "ISBN": "1111111111111",
+    "year": "2001"
+  },
+  {
+    "id": "f1fe619c-9695-48b9-99b5-0c8bf9e2fd3d",
+    "title": "adabiyot",
+    "author": "alisher",
+    "ISBN": "0000000000000",
+    "year": "1996"
+  }
+]
